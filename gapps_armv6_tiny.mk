@@ -7,6 +7,7 @@ PRODUCT_COPY_FILES += \
 	vendor/google/armv6/app/GoogleLoginService.apk:system/app/GoogleLoginService.apk \
 	vendor/google/armv6/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
 	vendor/google/armv6/app/PlayStore.apk:system/app/PlayStore.apk \
+	vendor/google/armv6/app/SetupWizard.apk:system/app/SetupWizard.apk \
 	vendor/google/armv6/app/NetworkLocation.apk:system/app/NetworkLocation.apk
 
 PRODUCT_COPY_FILES += \
