@@ -1,5 +1,6 @@
 # Google Apps
 PRODUCT_COPY_FILES += \
+	vendor/google/armv6/app/ChromeBookmarksSyncAdapter.apk:ChromeBookmarksSyncAdapter.apk \
 	vendor/google/armv6/app/Gmail.apk:system/app/Gmail.apk \
 	vendor/google/armv6/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
 	vendor/google/armv6/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
