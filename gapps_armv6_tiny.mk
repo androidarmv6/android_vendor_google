@@ -8,7 +8,9 @@ PRODUCT_COPY_FILES += \
 	vendor/google/armv6/app/GoogleServicesFramework.apk:system/app/GoogleServicesFramework.apk \
 	vendor/google/armv6/app/PlayStore.apk:system/app/PlayStore.apk \
 	vendor/google/armv6/app/SetupWizard.apk:system/app/SetupWizard.apk \
-	vendor/google/armv6/app/NetworkLocation.apk:system/app/NetworkLocation.apk
+	vendor/google/armv6/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
+	vendor/google/armv6/app/Talk.apk:system/app/Talk.apk \
+	vendor/google/armv6/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk
 
 PRODUCT_COPY_FILES += \
         vendor/google/armv6/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
