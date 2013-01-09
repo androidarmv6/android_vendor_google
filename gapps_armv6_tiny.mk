@@ -15,3 +15,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
         vendor/google/armv6/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
         vendor/google/armv6/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml
+
+PRODUCT_COPY_FILES += \
+	vendor/google/armv6/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar
