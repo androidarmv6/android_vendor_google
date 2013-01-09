@@ -1,6 +1,5 @@
 # Google Apps
 PRODUCT_COPY_FILES += \
-	vendor/google/armv6/app/Gmail.apk:system/app/Gmail.apk \
 	vendor/google/armv6/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
 	vendor/google/armv6/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
 	vendor/google/armv6/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
@@ -15,3 +14,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
         vendor/google/armv6/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml \
         vendor/google/armv6/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml
+
+PRODUCT_COPY_FILES += \
+	vendor/google/armv6/framework/com.google.android.maps.jar:system/framework/com.google.android.maps.jar
