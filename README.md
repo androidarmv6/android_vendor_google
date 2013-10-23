@@ -1,4 +1,4 @@
 android_vendor_google
 =====================
 
-Google Apps
+Google Apps 4.3
